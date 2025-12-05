@@ -1,0 +1,8 @@
+# Node modules
+asd_project_frontend/node_modules/
+
+# Python virtualenv
+asd_project_backend/venv/
+
+# Cache
+__pycache__/

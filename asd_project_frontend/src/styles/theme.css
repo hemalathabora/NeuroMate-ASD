@@ -1,0 +1,80 @@
+body {
+  background-color: #0d0d0d;
+  color: #e5e5e5;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Card */
+.ai-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 2rem;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 0 20px rgba(79,195,247,0.1);
+}
+
+/* Glow buttons */
+.ai-btn {
+  background: linear-gradient(90deg, #4fc3f7, #b388ff);
+  padding: 0.8rem 1.6rem;
+  color: #000;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: 0.3s;
+  border: none;
+}
+
+.ai-btn:hover {
+  box-shadow: 0 0 18px #4fc3f782;
+  transform: scale(1.05);
+}
+
+/* YES / NO */
+.btn-yes {
+  background: #4caf50;
+}
+
+.btn-no {
+  background: #ef5350;
+}
+
+/* Chat bubbles */
+.chat-question {
+  background: rgba(255,255,255,0.07);
+  padding: 1rem;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  max-width: 70%;
+}
+
+.chat-answer {
+  background: rgba(79,195,247,0.2);
+  padding: 1rem;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  max-width: 70%;
+}
+
+/* Titles */
+.page-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #4fc3f7;
+  margin-bottom: 1.5rem;
+}
+
+/* Result category bar */
+.category-bar {
+  height: 10px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.1);
+  margin-top: 6px;
+}
+
+.category-fill {
+  height: 100%;
+  border-radius: 6px;
+  background: linear-gradient(90deg, #4fc3f7, #b388ff);
+}
