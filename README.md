@@ -4,7 +4,9 @@ Smart · Adaptive · Category-Aware Autism Screening with PDF Reports
 NeuroMate is an AI-enhanced Autism Spectrum Disorder (ASD) early screening system that uses an adaptive questioning model, category-based scoring, and real-time interaction to provide a modern, accessible, and evidence-aligned screening experience.
 
 It is designed for hospitals, clinics, researchers, and parents/caregivers seeking an early, structured evaluation tool.
+
 🌍 Live Deployment
+
 🖥 Frontend (User Interface)
 
 👉 https://neuro-mate.vercel.app/
@@ -18,6 +20,7 @@ It is designed for hospitals, clinics, researchers, and parents/caregivers seeki
 👉 https://neuromate.onrender.com/docs
 
 🚀 Key Features
+
 🧠 1. Adaptive Questioning Logic
 
 The system intelligently decides when to dive deeper into a category.
